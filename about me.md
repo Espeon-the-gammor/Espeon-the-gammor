@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Mr-sphynx
-- 👀 I’m interested in python, scratch and java
-- 🌱 I’m currently learning python or java
-- 📫 How to reach me send me a txt file about ur questions
-- ⚡ Fun fact: i love sphynx cats
-
-<!---
-Mr-sphynx/Mr-sphynx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello world I'm a hooman that loves to attempt to code, even though I'm not experienced.
+Mainly uses Java but will try other stuff. I really like Espeon because it looks a lot like a cat, I LOVE CATS!
+this isn't my main google account because I think it won't accept Outlook.
